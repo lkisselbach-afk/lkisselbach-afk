@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->Cytometry In R
-Location: Baltimore, Maryland, USA
-My Favorite Fluorophore: BV421
-Previous Coding Experience: Calling IT
-What I Hope to Get From This Course: Ability to write R coding for file transfer and automated data analysis
+-Location: Baltimore, Maryland, USA
+-My Favorite Fluorophore: BV421
+-Previous Coding Experience: Calling IT
+-What I Hope to Get From This Course: Ability to write R coding for file transfer and automated data analysis
